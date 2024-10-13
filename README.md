@@ -16,14 +16,19 @@
 
 # Download & Setup Instructions
 
-* 1 - Clone project: git clone https://github.com/ibukun-brain/ecommerce-proshop/
-* 2 - cd proshop_django
-* 3 - Create virtual environment: virtualenv myenv
-* 4 - myenv\scripts\activate
+* 1 - Important!. Make sure you have python and nodejs installed on your local machine
+* 2 - Clone project: git clone https://github.com/ibukun-brain/ecommerce-proshop/
+* 3 - cd ecommerce-proshop
+* 4 - Create virtual environment: python -m venv env
+* 5 - Activate virtual environment
+      - windows: env\scripts\activate
+      - linux and macOS: source env/bin/activate
 * 5 - pip install -r requirements.txt
-* 6 - python manage.py runserver
+* 6 - python manage.py runserver or python3 manage.py runserver
 
 # Install react modules
 * 1 - cd frontend
 * 2 - npm install
 * 3 - having errors use ```npm audit fix --force```
+
+### viola the ecommerce app should be up and running
