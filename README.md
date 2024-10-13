@@ -6,7 +6,7 @@
 * Top products carousel
 * Product search feature
 * Shopper profile with orders
-* sSller product management
+* Seller product management
 * Admin user management
 * Admin Order details page
 * Mark orders as delivered option
