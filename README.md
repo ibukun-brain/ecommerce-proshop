@@ -34,3 +34,4 @@
 ### viola the ecommerce app should be up and running
 
 # DEMO VIDEO
+![](demo video.mp4)
