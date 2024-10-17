@@ -36,5 +36,5 @@
 # DEMO VIDEO
 ![]("https://drive.google.com/file/d/1I1YcAXpiGO8pOkLPgWM2xt4KOTI5Qsla/view?usp=sharing")
 <video width="320" height="240" controls>
-  <source src="demo_video.mp4" type="video/mp4">
+  <source src="/demo_video.mp4" type="video/mp4">
 </video>
