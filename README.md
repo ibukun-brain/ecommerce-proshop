@@ -28,13 +28,10 @@
 
 # Install react modules
 * 1 - cd frontend
-* 2 - npm install
+* 2 - npm start
 * 3 - having errors use ```npm audit fix --force```
 
 ### viola the ecommerce app should be up and running
 
 # DEMO VIDEO
-![](https://drive.google.com/file/d/1I1YcAXpiGO8pOkLPgWM2xt4KOTI5Qsla/view?usp=sharing)
-<video width="320" height="240" controls>
-  <source src="/demo_video.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/f255794f-2fc6-4924-b322-4fc4cd5711b0
