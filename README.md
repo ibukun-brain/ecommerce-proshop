@@ -32,3 +32,5 @@
 * 3 - having errors use ```npm audit fix --force```
 
 ### viola the ecommerce app should be up and running
+
+# DEMO VIDEO
